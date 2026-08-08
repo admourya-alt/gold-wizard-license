@@ -1,5 +1,7 @@
 29457729|ACTIVE|2030-12-31                //Vantage-Cent-Suraj Awadhnarayan Mourya
 34116178|ACTIVE|2030-12-31                //Vantage-Cent-Deepak Awadhnarayan Mourya
+34116012|ACTIVE|2030-12-31                //Vantage-Cent-Sonam Singh
+34114361|ACTIVE|2030-12-31                //Vantage-Cent-Priyanka Devnani
 34114572|ACTIVE|2030-12-31                //Vantage-Cent-Dilip Mourya
 29086931|ACTIVE|2030-12-31                //Vantage-Cent-Alok Mourya
 32250010|ACTIVE|2030-12-31                //Vantage-Cent-Garima Mourya
