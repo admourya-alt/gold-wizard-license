@@ -1,18 +1,21 @@
-29457729|ACTIVE|2030-12-31                //Vantage-Cent-Suraj Awadhnarayan Mourya
-34116178|ACTIVE|2030-12-31                //Vantage-Cent-Deepak Awadhnarayan Mourya
-34116012|ACTIVE|2030-12-31                //Vantage-Cent-Sonam Singh
-34114361|ACTIVE|2030-12-31                //Vantage-Cent-Priyanka Devnani
+34116012|ACTIVE|2027-08-10                //Vantage-Cent-Sonam Singh
+32253978|ACTIVE|2027-07-07                //Vantage-Cent-Saurabh Vishwakarma
+32255897|ACTIVE|2027-07-12                //Vantage-Cent-Amit Singh
 34114572|ACTIVE|2030-12-31                //Vantage-Cent-Dilip Mourya
 29086931|ACTIVE|2030-12-31                //Vantage-Cent-Alok Mourya
 32250010|ACTIVE|2030-12-31                //Vantage-Cent-Garima Mourya
 27266759|ACTIVE|2030-12-31                //Vantage-Cent-Adarsh Mourya
-31643142|ACTIVE|2030-12-31                //Vantage-Cent-Maulik Pandya
 32251459|ACTIVE|2030-12-31                //Vantage-Cent-Jyoti Narayan Mourya
 32251458|ACTIVE|2030-12-31                //Vantage-Cent-Narayan Mourya
 29459390|ACTIVE|2030-12-31                //Vantage-Cent-Jitendra Mourya
 33700236|ACTIVE|2030-12-31                //Vantage-Cent-Monu Mama Mourya
-32253978|ACTIVE|2027-07-07                //Vantage-Cent-Saurabh Vishwakarma
-32255897|ACTIVE|2027-07-12                //Vantage-Cent-Amit Singh
+29457729|ACTIVE|2030-12-31                //Vantage-Cent-Suraj Awadhnarayan Mourya
+34116178|ACTIVE|2030-12-31                //Vantage-Cent-Deepak Awadhnarayan Mourya
+34307645|ACTIVE|2030-12-31                //Vantage-Cent-Siv Kumar Mourya
+34308216|ACTIVE|2030-12-31                //Vantage-Cent-Rinki Mourya
+34305298|ACTIVE|2030-07-12                //Vantage-Cent-Ronit Roy
+34114361|ACTIVE|2030-12-31                //Vantage-Cent-Priyanka Devnani
+31643142|ACTIVE|2030-12-31                //Vantage-Cent-Maulik Pandya
 34111943|ACTIVE|2030-07-12                //Vantage-Cent-Sandeep Rathod
 12970|ACTIVE|2030-12-31                   //Xellion-Dollar-Adarsh Mourya
 26766820|ACTIVE|2030-12-31                //Vantage-Dollar-Adarsh Mourya
