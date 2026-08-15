@@ -12,6 +12,7 @@
 29457729|ACTIVE|2030-12-31                //Vantage-Cent-Suraj Awadhnarayan Mourya
 34116178|ACTIVE|2030-12-31                //Vantage-Cent-Deepak Awadhnarayan Mourya
 34307645|ACTIVE|2030-12-31                //Vantage-Cent-Siv Kumar Mourya
+34307587|ACTIVE|2030-12-31                //Vantage-Cent-Govind Mourya
 34308216|ACTIVE|2030-12-31                //Vantage-Cent-Rinki Mourya
 34305298|ACTIVE|2030-07-12                //Vantage-Cent-Ronit Roy
 34114361|ACTIVE|2030-12-31                //Vantage-Cent-Priyanka Devnani
