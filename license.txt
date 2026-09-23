@@ -24,7 +24,7 @@ Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorNam
 34580742|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Kashinath Mourya
 12970|ACTIVE|2030-12-31|YES|NO                   //Xellion-Dollar-Adarsh Mourya
 26766820|ACTIVE|2030-12-31|YES|NO                //Vantage-Dollar-Adarsh Mourya
-34037792|ACTIVE|2030-12-31|YES|YES               //Vantage-Dollar-Adarsh Mourya
+35894043|ACTIVE|2030-12-31|YES|YES               //Vantage-Dollar-Adarsh Mourya
 106926511|ACTIVE|2030-12-31|YES|NO               //Exness-Dollar-Adarsh Mourya
 92418215|ACTIVE|2030-12-31|YES|NO                //XM-Dollar-Adarsh Mourya
 25546434|ACTIVE|2030-12-31|YES|NO                //Vantage-Dollar-Adarsh Mourya
