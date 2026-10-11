@@ -19,6 +19,7 @@ Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorNam
 34305298|ACTIVE|2030-07-12|YES|NO                //Vantage-Cent-Ronit Roy
 34114361|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Priyanka Devnani
 31643142|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Maulik Pandya
+34302701|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Sunil Maurya
 34111943|ACTIVE|2030-07-12|YES|NO                //Vantage-Cent-Sandeep Rathod
 34580675|ACTIVE|2030-07-12|YES|NO                //Vantage-Cent-Sushant Juneja
 34580742|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Kashinath Mourya
