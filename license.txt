@@ -1,35 +1,34 @@
 Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorName
 
-34116012|ACTIVE|2027-08-10|YES|NO                //Vantage-Cent-Sonam Singh
-32253978|ACTIVE|2027-07-07|YES|NO                //Vantage-Cent-Saurabh Vishwakarma
-32255897|ACTIVE|2027-07-12|YES|NO                //Vantage-Cent-Amit Singh
-34114572|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Dilip Mourya
-29086931|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Alok Mourya
-32250010|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Garima Mourya
-27266759|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Adarsh Mourya
-32251459|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Jyoti Narayan Mourya
-32251458|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Narayan Mourya
-29459390|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Jitendra Mourya
-33700236|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Monu Mama Mourya
-29457729|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Suraj Awadhnarayan Mourya
-34116178|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Deepak Awadhnarayan Mourya
-34307645|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Siv Kumar Mourya
-34307587|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Govind Mourya
-34308216|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Rinki Mourya
-34305298|ACTIVE|2030-07-12|YES|NO                //Vantage-Cent-Ronit Roy
-34114361|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Priyanka Devnani
-31643142|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Maulik Pandya
-34302701|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Sunil Maurya
-34111943|ACTIVE|2030-07-12|YES|NO                //Vantage-Cent-Sandeep Rathod
-34580675|ACTIVE|2030-07-12|YES|NO                //Vantage-Cent-Sushant Juneja
-34580742|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Kashinath Mourya
-36162921|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent- Narayan Mourya 2
-36162506|ACTIVE|2030-12-31|YES|NO                //Vantage-Cent-Dilip Mourya 2
-12970|ACTIVE|2030-12-31|YES|NO                   //Xellion-Dollar-Adarsh Mourya
-26766820|ACTIVE|2030-12-31|YES|NO                //Vantage-Dollar-Adarsh Mourya
+34116012|ACTIVE|2027-08-10|NO|NO                //Vantage-Cent-Sonam Singh
+32253978|ACTIVE|2027-07-07|NO|NO                //Vantage-Cent-Saurabh Vishwakarma
+32255897|ACTIVE|2027-07-12|NO|NO                //Vantage-Cent-Amit Singh
+34114572|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Dilip Mourya
+29086931|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Alok Mourya
+32250010|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Garima Mourya
+27266759|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Adarsh Mourya
+32251459|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Jyoti Narayan Mourya
+32251458|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Narayan Mourya
+29459390|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Jitendra Mourya
+33700236|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Monu Mama Mourya
+29457729|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Suraj Awadhnarayan Mourya
+34116178|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Deepak Awadhnarayan Mourya
+34307645|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Siv Kumar Mourya
+34307587|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Govind Mourya
+34308216|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Rinki Mourya
+34305298|ACTIVE|2030-07-12|NO|NO               //Vantage-Cent-Ronit Roy
+34114361|ACTIVE|2030-12-31|NO|NO               //Vantage-Cent-Priyanka Devnani
+31643142|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Maulik Pandya
+34302701|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sunil Maurya
+34111943|ACTIVE|2030-07-12|NO|NO                //Vantage-Cent-Sandeep Rathod
+34580675|ACTIVE|2030-07-12|NO|NO                //Vantage-Cent-Sushant Juneja
+34580742|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Kashinath Mourya
+36162921|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent- Narayan Mourya 2
+36162506|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Dilip Mourya 2
+36167313|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Alok Mourya 2
+36164113|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Anjan Mourya
+26766820|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
 35894043|ACTIVE|2030-12-31|YES|YES               //Vantage-Dollar-Adarsh Mourya
-106926511|ACTIVE|2030-12-31|YES|NO               //Exness-Dollar-Adarsh Mourya
-92418215|ACTIVE|2030-12-31|YES|NO                //XM-Dollar-Adarsh Mourya
-26232391|ACTIVE|2030-12-31|YES|NO                //Vantage-Dollar-Adarsh Mourya
-25671451|ACTIVE|2030-12-31|YES|NO                //Vantage-Dollar-Adarsh Mourya
-88888|BLOCKED|2026-01-01|YES|NO                  //To disable license
+26232391|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
+25671451|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
+88888|BLOCKED|2026-01-01|NO|NO                  //To disable license
