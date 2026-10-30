@@ -31,4 +31,5 @@ Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorNam
 35894043|ACTIVE|2030-12-31|YES|YES              //Vantage-Dollar-Adarsh Mourya
 335566427|ACTIVE|2030-12-31|YES|YES             //XMMICRO-Dollar-Adarsh Mourya
 25671451|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
+26319360|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
 88888|BLOCKED|2026-01-01|NO|NO                  //To disable license
