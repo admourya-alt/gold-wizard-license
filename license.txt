@@ -7,23 +7,13 @@ Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorNam
 29086931|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Alok Mourya
 32250010|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Garima Mourya
 27266759|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Adarsh Mourya
-32251459|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Jyoti Narayan Mourya
-32251458|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Narayan Mourya
 29459390|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Jitendra Mourya
-33700236|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Monu Mama Mourya
 29457729|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Suraj Awadhnarayan Mourya
 34116178|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Deepak Awadhnarayan Mourya
-34307645|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Siv Kumar Mourya
-34307587|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Govind Mourya
-34308216|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Rinki Mourya
-34305298|ACTIVE|2030-07-12|NO|NO                //Vantage-Cent-Ronit Roy
 34114361|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Priyanka Devnani
-31643142|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Maulik Pandya
-34302701|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sunil Maurya
 34111943|ACTIVE|2030-07-12|NO|NO                //Vantage-Cent-Sandeep Rathod
 34580675|ACTIVE|2030-07-12|NO|NO                //Vantage-Cent-Sushant Juneja
 34580742|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Kashinath Mourya
-36162921|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent- Narayan Mourya 2
 36162506|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Dilip Mourya 2
 36167313|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Alok Mourya 2
 36164113|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Anjan Mourya
