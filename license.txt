@@ -1,6 +1,5 @@
-Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorName
+Account|Status|Expiry|Backtest|Optimization     //Broker-AccounType-InvestorName
 
-36528504|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sanket Patil
 34116012|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sonam Singh
 32253978|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Saurabh Vishwakarma
 32255897|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Amit Singh
@@ -23,6 +22,7 @@ Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorNam
 36162921|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Narayan Mourya 2
 36162506|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Dilip Mourya 2
 36167313|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Alok Mourya 2
+36528504|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sanket Patil
 26766820|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
 35894043|ACTIVE|2030-12-31|YES|YES              //Vantage-Dollar-Adarsh Mourya
 335566427|ACTIVE|2030-12-31|YES|YES             //XMMICRO-Dollar-Adarsh Mourya
