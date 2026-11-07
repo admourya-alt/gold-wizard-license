@@ -1,5 +1,6 @@
-Account|Status|Expiry|Backtest|Optimization     //Broker-AccounType-InvestorName
+Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorName
 
+36528504|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sanket Patil
 34116012|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sonam Singh
 32253978|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Saurabh Vishwakarma
 32255897|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Amit Singh
@@ -28,4 +29,3 @@ Account|Status|Expiry|Backtest|Optimization     //Broker-AccounType-InvestorName
 25671451|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
 26319360|ACTIVE|2030-12-31|NO|NO                //Vantage-Dollar-Adarsh Mourya
 88888|BLOCKED|2026-01-01|NO|NO                  //To disable license
-36528504|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sanket Patil
