@@ -1,4 +1,4 @@
-Account|Status|Expiry|Backtest|Optimization      //Broker-AccounType-InvestorName
+Account|Status|Expiry|Backtest|Optimization     //Broker-AccounType-InvestorName
 
 34116012|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Sonam Singh
 32253978|ACTIVE|2030-12-31|NO|NO                //Vantage-Cent-Saurabh Vishwakarma
